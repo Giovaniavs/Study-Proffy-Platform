@@ -54,6 +54,12 @@
     margin-right: 2rem;
 }
 
+a+a img{
+    width: 6rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+}
+
 .buttons-container a.study{
     transition: 0.3s;
     background: var(--color-primary-lighter);
