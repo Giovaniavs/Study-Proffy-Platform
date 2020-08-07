@@ -40,6 +40,7 @@ html, body{
     font: 700 1.6rem Archivo;
     cursor: pointer;
     transition: .2s;
+    outline: none;
 }
 
 #page-give-classes fieldset legend button:hover {
